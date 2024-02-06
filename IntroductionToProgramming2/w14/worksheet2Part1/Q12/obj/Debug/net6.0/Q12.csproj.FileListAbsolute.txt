@@ -1,0 +1,14 @@
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\worksheet2Part1\Q12\obj\Debug\net6.0\Q12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\worksheet2Part1\Q12\obj\Debug\net6.0\Q12.AssemblyInfoInputs.cache
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\worksheet2Part1\Q12\obj\Debug\net6.0\Q12.AssemblyInfo.cs
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\worksheet2Part1\Q12\obj\Debug\net6.0\Q12.csproj.CoreCompileInputs.cache
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\worksheet2Part1\Q12\bin\Debug\net6.0\Q12.exe
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\worksheet2Part1\Q12\bin\Debug\net6.0\Q12.deps.json
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\worksheet2Part1\Q12\bin\Debug\net6.0\Q12.runtimeconfig.json
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\worksheet2Part1\Q12\bin\Debug\net6.0\Q12.dll
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\worksheet2Part1\Q12\bin\Debug\net6.0\Q12.pdb
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\worksheet2Part1\Q12\obj\Debug\net6.0\Q12.dll
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\worksheet2Part1\Q12\obj\Debug\net6.0\refint\Q12.dll
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\worksheet2Part1\Q12\obj\Debug\net6.0\Q12.pdb
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\worksheet2Part1\Q12\obj\Debug\net6.0\Q12.genruntimeconfig.cache
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\worksheet2Part1\Q12\obj\Debug\net6.0\ref\Q12.dll

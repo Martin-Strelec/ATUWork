@@ -1,0 +1,14 @@
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w3\projects\CA1_testik\bin\Debug\net6.0\CA1_testik.exe
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w3\projects\CA1_testik\bin\Debug\net6.0\CA1_testik.deps.json
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w3\projects\CA1_testik\bin\Debug\net6.0\CA1_testik.runtimeconfig.json
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w3\projects\CA1_testik\bin\Debug\net6.0\CA1_testik.dll
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w3\projects\CA1_testik\bin\Debug\net6.0\CA1_testik.pdb
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w3\projects\CA1_testik\obj\Debug\net6.0\CA1_testik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w3\projects\CA1_testik\obj\Debug\net6.0\CA1_testik.AssemblyInfoInputs.cache
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w3\projects\CA1_testik\obj\Debug\net6.0\CA1_testik.AssemblyInfo.cs
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w3\projects\CA1_testik\obj\Debug\net6.0\CA1_testik.csproj.CoreCompileInputs.cache
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w3\projects\CA1_testik\obj\Debug\net6.0\CA1_testik.dll
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w3\projects\CA1_testik\obj\Debug\net6.0\refint\CA1_testik.dll
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w3\projects\CA1_testik\obj\Debug\net6.0\CA1_testik.pdb
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w3\projects\CA1_testik\obj\Debug\net6.0\CA1_testik.genruntimeconfig.cache
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w3\projects\CA1_testik\obj\Debug\net6.0\ref\CA1_testik.dll

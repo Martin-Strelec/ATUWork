@@ -1,0 +1,14 @@
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w3\projects\Q8_test\bin\Debug\net6.0\Q8_test.exe
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w3\projects\Q8_test\bin\Debug\net6.0\Q8_test.deps.json
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w3\projects\Q8_test\bin\Debug\net6.0\Q8_test.runtimeconfig.json
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w3\projects\Q8_test\bin\Debug\net6.0\Q8_test.dll
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w3\projects\Q8_test\bin\Debug\net6.0\Q8_test.pdb
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w3\projects\Q8_test\obj\Debug\net6.0\Q8_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w3\projects\Q8_test\obj\Debug\net6.0\Q8_test.AssemblyInfoInputs.cache
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w3\projects\Q8_test\obj\Debug\net6.0\Q8_test.AssemblyInfo.cs
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w3\projects\Q8_test\obj\Debug\net6.0\Q8_test.csproj.CoreCompileInputs.cache
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w3\projects\Q8_test\obj\Debug\net6.0\Q8_test.dll
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w3\projects\Q8_test\obj\Debug\net6.0\refint\Q8_test.dll
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w3\projects\Q8_test\obj\Debug\net6.0\Q8_test.pdb
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w3\projects\Q8_test\obj\Debug\net6.0\Q8_test.genruntimeconfig.cache
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w3\projects\Q8_test\obj\Debug\net6.0\ref\Q8_test.dll

@@ -1,0 +1,14 @@
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\w5Project\Q15\bin\Debug\net6.0\Q15.exe
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\w5Project\Q15\bin\Debug\net6.0\Q15.deps.json
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\w5Project\Q15\bin\Debug\net6.0\Q15.runtimeconfig.json
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\w5Project\Q15\bin\Debug\net6.0\Q15.dll
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\w5Project\Q15\bin\Debug\net6.0\Q15.pdb
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\w5Project\Q15\obj\Debug\net6.0\Q15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\w5Project\Q15\obj\Debug\net6.0\Q15.AssemblyInfoInputs.cache
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\w5Project\Q15\obj\Debug\net6.0\Q15.AssemblyInfo.cs
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\w5Project\Q15\obj\Debug\net6.0\Q15.csproj.CoreCompileInputs.cache
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\w5Project\Q15\obj\Debug\net6.0\Q15.dll
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\w5Project\Q15\obj\Debug\net6.0\refint\Q15.dll
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\w5Project\Q15\obj\Debug\net6.0\Q15.pdb
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\w5Project\Q15\obj\Debug\net6.0\Q15.genruntimeconfig.cache
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\w5Project\Q15\obj\Debug\net6.0\ref\Q15.dll

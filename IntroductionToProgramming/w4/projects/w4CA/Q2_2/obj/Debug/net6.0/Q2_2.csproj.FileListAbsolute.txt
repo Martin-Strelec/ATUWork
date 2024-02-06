@@ -1,0 +1,14 @@
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\Q2_2\bin\Debug\net6.0\Q2_2.exe
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\Q2_2\bin\Debug\net6.0\Q2_2.deps.json
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\Q2_2\bin\Debug\net6.0\Q2_2.runtimeconfig.json
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\Q2_2\bin\Debug\net6.0\Q2_2.dll
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\Q2_2\bin\Debug\net6.0\Q2_2.pdb
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\Q2_2\obj\Debug\net6.0\Q2_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\Q2_2\obj\Debug\net6.0\Q2_2.AssemblyInfoInputs.cache
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\Q2_2\obj\Debug\net6.0\Q2_2.AssemblyInfo.cs
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\Q2_2\obj\Debug\net6.0\Q2_2.csproj.CoreCompileInputs.cache
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\Q2_2\obj\Debug\net6.0\Q2_2.dll
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\Q2_2\obj\Debug\net6.0\refint\Q2_2.dll
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\Q2_2\obj\Debug\net6.0\Q2_2.pdb
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\Q2_2\obj\Debug\net6.0\Q2_2.genruntimeconfig.cache
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\Q2_2\obj\Debug\net6.0\ref\Q2_2.dll

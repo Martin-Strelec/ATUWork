@@ -1,0 +1,14 @@
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w2\labs3\projects\Lab2Q2\Lab2Q5\bin\Debug\net6.0\Lab2Q5.exe
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w2\labs3\projects\Lab2Q2\Lab2Q5\bin\Debug\net6.0\Lab2Q5.deps.json
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w2\labs3\projects\Lab2Q2\Lab2Q5\bin\Debug\net6.0\Lab2Q5.runtimeconfig.json
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w2\labs3\projects\Lab2Q2\Lab2Q5\bin\Debug\net6.0\Lab2Q5.dll
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w2\labs3\projects\Lab2Q2\Lab2Q5\bin\Debug\net6.0\Lab2Q5.pdb
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w2\labs3\projects\Lab2Q2\Lab2Q5\obj\Debug\net6.0\Lab2Q5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w2\labs3\projects\Lab2Q2\Lab2Q5\obj\Debug\net6.0\Lab2Q5.AssemblyInfoInputs.cache
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w2\labs3\projects\Lab2Q2\Lab2Q5\obj\Debug\net6.0\Lab2Q5.AssemblyInfo.cs
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w2\labs3\projects\Lab2Q2\Lab2Q5\obj\Debug\net6.0\Lab2Q5.csproj.CoreCompileInputs.cache
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w2\labs3\projects\Lab2Q2\Lab2Q5\obj\Debug\net6.0\Lab2Q5.dll
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w2\labs3\projects\Lab2Q2\Lab2Q5\obj\Debug\net6.0\refint\Lab2Q5.dll
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w2\labs3\projects\Lab2Q2\Lab2Q5\obj\Debug\net6.0\Lab2Q5.pdb
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w2\labs3\projects\Lab2Q2\Lab2Q5\obj\Debug\net6.0\Lab2Q5.genruntimeconfig.cache
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w2\labs3\projects\Lab2Q2\Lab2Q5\obj\Debug\net6.0\ref\Lab2Q5.dll

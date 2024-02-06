@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "worksheet2Part1/1.0.0": {
+        "runtime": {
+          "worksheet2Part1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "worksheet2Part1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

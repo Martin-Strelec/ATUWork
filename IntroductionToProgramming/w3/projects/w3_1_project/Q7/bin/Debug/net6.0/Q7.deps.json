@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Q7/1.0.0": {
+        "dependencies": {
+          "Q6": "1.0.0"
+        },
+        "runtime": {
+          "Q7.dll": {}
+        }
+      },
+      "Q6/1.0.0": {
+        "runtime": {
+          "Q6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Q7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Q6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

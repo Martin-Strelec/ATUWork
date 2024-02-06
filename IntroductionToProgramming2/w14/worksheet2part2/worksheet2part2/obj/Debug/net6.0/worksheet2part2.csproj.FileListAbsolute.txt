@@ -1,0 +1,14 @@
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\worksheet2part2\worksheet2part2\bin\Debug\net6.0\worksheet2part2.exe
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\worksheet2part2\worksheet2part2\bin\Debug\net6.0\worksheet2part2.deps.json
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\worksheet2part2\worksheet2part2\bin\Debug\net6.0\worksheet2part2.runtimeconfig.json
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\worksheet2part2\worksheet2part2\bin\Debug\net6.0\worksheet2part2.dll
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\worksheet2part2\worksheet2part2\bin\Debug\net6.0\worksheet2part2.pdb
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\worksheet2part2\worksheet2part2\obj\Debug\net6.0\worksheet2part2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\worksheet2part2\worksheet2part2\obj\Debug\net6.0\worksheet2part2.AssemblyInfoInputs.cache
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\worksheet2part2\worksheet2part2\obj\Debug\net6.0\worksheet2part2.AssemblyInfo.cs
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\worksheet2part2\worksheet2part2\obj\Debug\net6.0\worksheet2part2.csproj.CoreCompileInputs.cache
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\worksheet2part2\worksheet2part2\obj\Debug\net6.0\worksheet2part2.dll
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\worksheet2part2\worksheet2part2\obj\Debug\net6.0\refint\worksheet2part2.dll
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\worksheet2part2\worksheet2part2\obj\Debug\net6.0\worksheet2part2.pdb
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\worksheet2part2\worksheet2part2\obj\Debug\net6.0\worksheet2part2.genruntimeconfig.cache
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\worksheet2part2\worksheet2part2\obj\Debug\net6.0\ref\worksheet2part2.dll

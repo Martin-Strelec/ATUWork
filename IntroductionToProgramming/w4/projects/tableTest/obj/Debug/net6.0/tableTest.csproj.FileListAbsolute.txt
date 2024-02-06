@@ -1,0 +1,14 @@
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\tableTest\bin\Debug\net6.0\tableTest.exe
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\tableTest\bin\Debug\net6.0\tableTest.deps.json
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\tableTest\bin\Debug\net6.0\tableTest.runtimeconfig.json
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\tableTest\bin\Debug\net6.0\tableTest.dll
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\tableTest\bin\Debug\net6.0\tableTest.pdb
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\tableTest\obj\Debug\net6.0\tableTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\tableTest\obj\Debug\net6.0\tableTest.AssemblyInfoInputs.cache
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\tableTest\obj\Debug\net6.0\tableTest.AssemblyInfo.cs
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\tableTest\obj\Debug\net6.0\tableTest.csproj.CoreCompileInputs.cache
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\tableTest\obj\Debug\net6.0\tableTest.dll
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\tableTest\obj\Debug\net6.0\refint\tableTest.dll
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\tableTest\obj\Debug\net6.0\tableTest.pdb
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\tableTest\obj\Debug\net6.0\tableTest.genruntimeconfig.cache
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\tableTest\obj\Debug\net6.0\ref\tableTest.dll

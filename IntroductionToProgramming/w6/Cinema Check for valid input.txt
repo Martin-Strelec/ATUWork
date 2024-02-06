@@ -1,0 +1,25 @@
+//menu
+            WriteLine("\nSligo Cinema\n");
+            WriteLine("We are presently showing:\n");
+            WriteLine("1. Black 47 (15) ");
+            WriteLine("2. Buried (18) ");
+            WriteLine("3. Johnny Enlish (U12)");
+            WriteLine("4. First Man (12-15A) ");
+            WriteLine("5. Night School(12-15A)\n");
+            Write("{0,-45}{1,2}", "Enter the number of films you wish to see", ":");
+            msgInvalid = "\nYou have entered an invalid input\n";
+            if (int.TryParse(ReadLine(), out int filmNum))
+            {
+                if (filmNum >= 1 && filmNum <= 5)
+                {
+                    WriteLine("Valid Film");
+                }
+                else
+                {
+                    WriteLine(msgInvalid);
+                }
+            }
+            else
+            {
+                WriteLine(msgInvalid);
+            }

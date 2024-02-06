@@ -1,0 +1,14 @@
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\exam\projects\examTest2\examTest2\examTest2\obj\Debug\net6.0\examTest2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\exam\projects\examTest2\examTest2\examTest2\obj\Debug\net6.0\examTest2.AssemblyInfoInputs.cache
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\exam\projects\examTest2\examTest2\examTest2\obj\Debug\net6.0\examTest2.AssemblyInfo.cs
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\exam\projects\examTest2\examTest2\examTest2\obj\Debug\net6.0\examTest2.csproj.CoreCompileInputs.cache
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\exam\projects\examTest2\examTest2\examTest2\bin\Debug\net6.0\examTest2.exe
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\exam\projects\examTest2\examTest2\examTest2\bin\Debug\net6.0\examTest2.deps.json
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\exam\projects\examTest2\examTest2\examTest2\bin\Debug\net6.0\examTest2.runtimeconfig.json
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\exam\projects\examTest2\examTest2\examTest2\bin\Debug\net6.0\examTest2.dll
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\exam\projects\examTest2\examTest2\examTest2\bin\Debug\net6.0\examTest2.pdb
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\exam\projects\examTest2\examTest2\examTest2\obj\Debug\net6.0\examTest2.dll
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\exam\projects\examTest2\examTest2\examTest2\obj\Debug\net6.0\refint\examTest2.dll
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\exam\projects\examTest2\examTest2\examTest2\obj\Debug\net6.0\examTest2.pdb
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\exam\projects\examTest2\examTest2\examTest2\obj\Debug\net6.0\examTest2.genruntimeconfig.cache
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\exam\projects\examTest2\examTest2\examTest2\obj\Debug\net6.0\ref\examTest2.dll

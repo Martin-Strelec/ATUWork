@@ -1,0 +1,14 @@
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w10\projects\w11Project\w11Project\bin\Debug\net6.0\w11Project.exe
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w10\projects\w11Project\w11Project\bin\Debug\net6.0\w11Project.deps.json
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w10\projects\w11Project\w11Project\bin\Debug\net6.0\w11Project.runtimeconfig.json
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w10\projects\w11Project\w11Project\bin\Debug\net6.0\w11Project.dll
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w10\projects\w11Project\w11Project\bin\Debug\net6.0\w11Project.pdb
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w10\projects\w11Project\w11Project\obj\Debug\net6.0\w11Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w10\projects\w11Project\w11Project\obj\Debug\net6.0\w11Project.AssemblyInfoInputs.cache
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w10\projects\w11Project\w11Project\obj\Debug\net6.0\w11Project.AssemblyInfo.cs
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w10\projects\w11Project\w11Project\obj\Debug\net6.0\w11Project.csproj.CoreCompileInputs.cache
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w10\projects\w11Project\w11Project\obj\Debug\net6.0\w11Project.dll
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w10\projects\w11Project\w11Project\obj\Debug\net6.0\refint\w11Project.dll
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w10\projects\w11Project\w11Project\obj\Debug\net6.0\w11Project.pdb
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w10\projects\w11Project\w11Project\obj\Debug\net6.0\w11Project.genruntimeconfig.cache
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w10\projects\w11Project\w11Project\obj\Debug\net6.0\ref\w11Project.dll

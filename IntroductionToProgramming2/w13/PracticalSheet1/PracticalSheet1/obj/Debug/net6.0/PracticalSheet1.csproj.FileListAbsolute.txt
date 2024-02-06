@@ -1,0 +1,14 @@
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\PracticalSheet1\PracticalSheet1\bin\Debug\net6.0\PracticalSheet1.exe
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\PracticalSheet1\PracticalSheet1\bin\Debug\net6.0\PracticalSheet1.deps.json
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\PracticalSheet1\PracticalSheet1\bin\Debug\net6.0\PracticalSheet1.runtimeconfig.json
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\PracticalSheet1\PracticalSheet1\bin\Debug\net6.0\PracticalSheet1.dll
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\PracticalSheet1\PracticalSheet1\bin\Debug\net6.0\PracticalSheet1.pdb
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\PracticalSheet1\PracticalSheet1\obj\Debug\net6.0\PracticalSheet1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\PracticalSheet1\PracticalSheet1\obj\Debug\net6.0\PracticalSheet1.AssemblyInfoInputs.cache
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\PracticalSheet1\PracticalSheet1\obj\Debug\net6.0\PracticalSheet1.AssemblyInfo.cs
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\PracticalSheet1\PracticalSheet1\obj\Debug\net6.0\PracticalSheet1.csproj.CoreCompileInputs.cache
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\PracticalSheet1\PracticalSheet1\obj\Debug\net6.0\PracticalSheet1.dll
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\PracticalSheet1\PracticalSheet1\obj\Debug\net6.0\refint\PracticalSheet1.dll
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\PracticalSheet1\PracticalSheet1\obj\Debug\net6.0\PracticalSheet1.pdb
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\PracticalSheet1\PracticalSheet1\obj\Debug\net6.0\PracticalSheet1.genruntimeconfig.cache
+C:\Users\fredy\Documents\ATUTemp\Semester2\IntroductionToProgramming2(COMP06236)\w13\projects\PracticalSheet1\PracticalSheet1\obj\Debug\net6.0\ref\PracticalSheet1.dll

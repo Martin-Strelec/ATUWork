@@ -1,0 +1,14 @@
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\w4_project\bin\Debug\net6.0\w4_project.exe
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\w4_project\bin\Debug\net6.0\w4_project.deps.json
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\w4_project\bin\Debug\net6.0\w4_project.runtimeconfig.json
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\w4_project\bin\Debug\net6.0\w4_project.dll
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\w4_project\bin\Debug\net6.0\w4_project.pdb
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\w4_project\obj\Debug\net6.0\w4_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\w4_project\obj\Debug\net6.0\w4_project.AssemblyInfoInputs.cache
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\w4_project\obj\Debug\net6.0\w4_project.AssemblyInfo.cs
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\w4_project\obj\Debug\net6.0\w4_project.csproj.CoreCompileInputs.cache
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\w4_project\obj\Debug\net6.0\w4_project.dll
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\w4_project\obj\Debug\net6.0\refint\w4_project.dll
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\w4_project\obj\Debug\net6.0\w4_project.pdb
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\w4_project\obj\Debug\net6.0\w4_project.genruntimeconfig.cache
+C:\Users\fredy\Documents\ATUTemp\Semester1\IntroductionToProgramming(COMP06235)\w4\projects\w4_project\obj\Debug\net6.0\ref\w4_project.dll
