@@ -12,7 +12,7 @@ namespace Q3
     internal class Program
     {
 
-        static int[] array = { 12, 2, 5, 36, 3, 565, 3, 32, 1 };
+        static int[] array = { 12, 2, 5, 36, 3, 565, 3, 32, 1, 2, 41, 1, 5, 2, 4, 6, 7, 3, 3, 3, 3, 4, 56, 65 };
 
         static void Main(string[] args)
         {
