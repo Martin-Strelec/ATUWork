@@ -1,0 +1,14 @@
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w16\CA\CA\bin\Debug\net6.0\CA.exe
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w16\CA\CA\bin\Debug\net6.0\CA.deps.json
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w16\CA\CA\bin\Debug\net6.0\CA.runtimeconfig.json
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w16\CA\CA\bin\Debug\net6.0\CA.dll
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w16\CA\CA\bin\Debug\net6.0\CA.pdb
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w16\CA\CA\obj\Debug\net6.0\CA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w16\CA\CA\obj\Debug\net6.0\CA.AssemblyInfoInputs.cache
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w16\CA\CA\obj\Debug\net6.0\CA.AssemblyInfo.cs
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w16\CA\CA\obj\Debug\net6.0\CA.csproj.CoreCompileInputs.cache
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w16\CA\CA\obj\Debug\net6.0\CA.dll
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w16\CA\CA\obj\Debug\net6.0\refint\CA.dll
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w16\CA\CA\obj\Debug\net6.0\CA.pdb
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w16\CA\CA\obj\Debug\net6.0\CA.genruntimeconfig.cache
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w16\CA\CA\obj\Debug\net6.0\ref\CA.dll

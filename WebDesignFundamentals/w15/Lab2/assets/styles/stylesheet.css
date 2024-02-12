@@ -1,7 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Marcellus&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+
+
 h1, h2, h3 
 {   
     color: black;
-    font-family: Verdana;
+    font-family: Marcellus, Verdana;
     text-decoration: underline;
     text-align: center;
 }
@@ -31,6 +35,8 @@ ul a
 
 body
 {
+    font-family: Jost, Arial;
+    font-size: 40px;
     background-color: aquamarine;
     margin-left: 10%;
     margin-right: 10%;
