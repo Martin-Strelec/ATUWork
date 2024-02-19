@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Marcellus&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+
+body
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav 
+{
+    background-color: black;
+    padding: 5px;
+}
+
+nav ul 
+{
+    text-align: center;
+    font-size: 1.2em;
+}
+
+nav ul li
+{
+    list-style-type: none;
+    background-color: gray;
+    display: inline;
+    padding: 15px;
+    margin: 5px;
+    border: 2px solid red;
+    border-radius: 10px;
+}
+nav ul li:hover 
+{
+    background-color: blueviolet;
+}
+
+nav ul li a
+{
+    color: white;
+    text-decoration: none;
+}
+
+header 
+{
+    background-color: gray;
+    padding: 10px;
+}
+
+footer
+{
+    padding: 10px;
+    background-color: black;
+
+}
+footer p 
+{
+    text-align: center;
+    color: white;
+}
+
+#active
+{
+    border: 2px solid yellow;
+}
+
+.product
+{
+    text-align: center;
+    border: 5px solid black;
+    margin: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.product img
+{    
+    width: 300px;
+}

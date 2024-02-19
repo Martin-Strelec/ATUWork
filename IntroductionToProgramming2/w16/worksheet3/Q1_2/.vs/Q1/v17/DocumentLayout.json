@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fredy\\Documents\\ATUTemp\\github_repository\\IntroductionToProgramming2\\w16\\worksheet3\\Q1_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46BA87AD-9172-436C-820C-DFC038D7295A}|Q6\\Q6.csproj|c:\\users\\fredy\\documents\\atutemp\\github_repository\\introductiontoprogramming2\\w16\\worksheet3\\q1_2\\q6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BA87AD-9172-436C-820C-DFC038D7295A}|Q6\\Q6.csproj|solutionrelative:q6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E698975-B16A-4554-92C3-6C8120FA8603}|Q1\\Q1.csproj|c:\\users\\fredy\\documents\\atutemp\\github_repository\\introductiontoprogramming2\\w16\\worksheet3\\q1_2\\q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E698975-B16A-4554-92C3-6C8120FA8603}|Q1\\Q1.csproj|solutionrelative:q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583A68B8-A52D-4D2A-9959-74A8EE9D23AA}|Q5\\Q5.csproj|c:\\users\\fredy\\documents\\atutemp\\github_repository\\introductiontoprogramming2\\w16\\worksheet3\\q1_2\\q5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{583A68B8-A52D-4D2A-9959-74A8EE9D23AA}|Q5\\Q5.csproj|solutionrelative:q5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552D100E-61B7-4AC6-9D70-3637B116B64B}|Q4\\Q4.csproj|c:\\users\\fredy\\documents\\atutemp\\github_repository\\introductiontoprogramming2\\w16\\worksheet3\\q1_2\\q4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552D100E-61B7-4AC6-9D70-3637B116B64B}|Q4\\Q4.csproj|solutionrelative:q4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7509F56-F19F-437C-969E-D678C82E8233}|Q3\\Q3.csproj|c:\\users\\fredy\\documents\\atutemp\\github_repository\\introductiontoprogramming2\\w16\\worksheet3\\q1_2\\q3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7509F56-F19F-437C-969E-D678C82E8233}|Q3\\Q3.csproj|solutionrelative:q3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DD6D9C-CC20-4C24-BC54-E325FE351190}|Q2\\Q2.csproj|c:\\users\\fredy\\documents\\atutemp\\github_repository\\introductiontoprogramming2\\w16\\worksheet3\\q1_2\\q2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DD6D9C-CC20-4C24-BC54-E325FE351190}|Q2\\Q2.csproj|solutionrelative:q2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fredy\\Documents\\ATUTemp\\github_repository\\IntroductionToProgramming2\\w16\\worksheet3\\Q1_2\\Q6\\Program.cs",
+              "RelativeDocumentMoniker": "Q6\\Program.cs",
+              "ToolTip": "C:\\Users\\fredy\\Documents\\ATUTemp\\github_repository\\IntroductionToProgramming2\\w16\\worksheet3\\Q1_2\\Q6\\Program.cs",
+              "RelativeToolTip": "Q6\\Program.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwDUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T14:08:42.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fredy\\Documents\\ATUTemp\\github_repository\\IntroductionToProgramming2\\w16\\worksheet3\\Q1_2\\Q5\\Program.cs",
+              "RelativeDocumentMoniker": "Q5\\Program.cs",
+              "ToolTip": "C:\\Users\\fredy\\Documents\\ATUTemp\\github_repository\\IntroductionToProgramming2\\w16\\worksheet3\\Q1_2\\Q5\\Program.cs",
+              "RelativeToolTip": "Q5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T14:08:42.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fredy\\Documents\\ATUTemp\\github_repository\\IntroductionToProgramming2\\w16\\worksheet3\\Q1_2\\Q4\\Program.cs",
+              "RelativeDocumentMoniker": "Q4\\Program.cs",
+              "ToolTip": "C:\\Users\\fredy\\Documents\\ATUTemp\\github_repository\\IntroductionToProgramming2\\w16\\worksheet3\\Q1_2\\Q4\\Program.cs",
+              "RelativeToolTip": "Q4\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwDwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T14:08:42.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fredy\\Documents\\ATUTemp\\github_repository\\IntroductionToProgramming2\\w16\\worksheet3\\Q1_2\\Q3\\Program.cs",
+              "RelativeDocumentMoniker": "Q3\\Program.cs",
+              "ToolTip": "C:\\Users\\fredy\\Documents\\ATUTemp\\github_repository\\IntroductionToProgramming2\\w16\\worksheet3\\Q1_2\\Q3\\Program.cs",
+              "RelativeToolTip": "Q3\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwDwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T14:08:42.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fredy\\Documents\\ATUTemp\\github_repository\\IntroductionToProgramming2\\w16\\worksheet3\\Q1_2\\Q2\\Program.cs",
+              "RelativeDocumentMoniker": "Q2\\Program.cs",
+              "ToolTip": "C:\\Users\\fredy\\Documents\\ATUTemp\\github_repository\\IntroductionToProgramming2\\w16\\worksheet3\\Q1_2\\Q2\\Program.cs",
+              "RelativeToolTip": "Q2\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T14:08:42.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fredy\\Documents\\ATUTemp\\github_repository\\IntroductionToProgramming2\\w16\\worksheet3\\Q1_2\\Q1\\Program.cs",
+              "RelativeDocumentMoniker": "Q1\\Program.cs",
+              "ToolTip": "C:\\Users\\fredy\\Documents\\ATUTemp\\github_repository\\IntroductionToProgramming2\\w16\\worksheet3\\Q1_2\\Q1\\Program.cs",
+              "RelativeToolTip": "Q1\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T14:08:42.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
