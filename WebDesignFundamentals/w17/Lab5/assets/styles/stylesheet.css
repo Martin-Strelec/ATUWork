@@ -1,0 +1,138 @@
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:  black;
+}
+
+header
+{
+    background-color: yellowgreen;
+    height: 100px;
+}
+
+header h1 
+{
+    float: right;
+    color: rgb(153, 147, 93);
+}
+
+#logo 
+{
+    float: left;
+    width: 100px;
+    border-radius: 10%;
+    border: 2px solid black;
+    margin: 10px;
+}
+
+nav
+{
+    background-color: rgb(18, 72, 18);
+    padding: 5px;
+}
+
+nav ul
+{   
+    text-align: center;
+    font-size: 1.2em;
+}
+
+nav ul li
+{
+    list-style-type: none;
+    background-color: gray;
+    display: inline;
+    padding: 15px;
+    margin: 10px;
+    border: 2px solid yellowgreen;
+    border-radius: 10%;
+}
+
+nav ul li a
+{
+    color: white;
+    text-decoration: none;
+}
+
+#active
+{
+    border: 2px dashed rgb(19, 74, 19);
+}
+
+main 
+{
+    text-align: center;
+    color: white;
+}
+
+main h1
+{
+    text-align: left;
+    color: khaki;
+}
+
+.introduction-main-image    
+{
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 5px;
+    border: 5px solid white;
+    width: 60%;
+}
+
+.introduction-other-images 
+{
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 5px;
+    border: 5px solid white;
+    width: 40%;
+}
+
+.lamb-section
+{
+    color: black; 
+    text-align: left; 
+    margin: 50px;    
+    height: 350px; 
+    text-align: justify;       
+}
+
+.lamb-section img
+{
+   height: 300px;
+   width: 30%;
+   border: 5px dashed black;
+   border-radius: 5%;
+}
+
+.hen-images
+{
+    height: 400px;
+    width: 30%;
+}
+
+.calf-section 
+{
+    color: black;
+    text-align: left;
+}
+
+.calf-section img 
+{
+    border: 5px dashed black;
+    height: 400px; 
+    width: 49%;
+}
+
+footer 
+{
+    background-color: rgb(17, 57, 17);
+    text-align: center;
+    font-size: 1em;
+    padding: 10px;
+    color: rgb(146, 203, 47);
+    border: 10px solid rgb(21, 81, 21);
+}

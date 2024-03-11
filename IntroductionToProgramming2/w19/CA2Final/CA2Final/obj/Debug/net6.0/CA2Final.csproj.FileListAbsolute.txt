@@ -1,0 +1,15 @@
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w19\CA2Final\CA2Final\bin\Debug\net6.0\CA2Final.exe
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w19\CA2Final\CA2Final\bin\Debug\net6.0\CA2Final.deps.json
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w19\CA2Final\CA2Final\bin\Debug\net6.0\CA2Final.runtimeconfig.json
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w19\CA2Final\CA2Final\bin\Debug\net6.0\CA2Final.dll
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w19\CA2Final\CA2Final\bin\Debug\net6.0\CA2Final.pdb
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w19\CA2Final\CA2Final\obj\Debug\net6.0\CA2Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w19\CA2Final\CA2Final\obj\Debug\net6.0\CA2Final.AssemblyInfoInputs.cache
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w19\CA2Final\CA2Final\obj\Debug\net6.0\CA2Final.AssemblyInfo.cs
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w19\CA2Final\CA2Final\obj\Debug\net6.0\CA2Final.csproj.CoreCompileInputs.cache
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w19\CA2Final\CA2Final\obj\Debug\net6.0\CA2Final.sourcelink.json
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w19\CA2Final\CA2Final\obj\Debug\net6.0\CA2Final.dll
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w19\CA2Final\CA2Final\obj\Debug\net6.0\refint\CA2Final.dll
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w19\CA2Final\CA2Final\obj\Debug\net6.0\CA2Final.pdb
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w19\CA2Final\CA2Final\obj\Debug\net6.0\CA2Final.genruntimeconfig.cache
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w19\CA2Final\CA2Final\obj\Debug\net6.0\ref\CA2Final.dll

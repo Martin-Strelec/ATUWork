@@ -42,7 +42,7 @@ namespace Q6
             for (int i = 0; i < coordinates.Length; i++)
             {
                 Console.Write($"{(i == 0 ? "X" : "Y")}: ");
-                while (!int.TryParse(Console.ReadLine(), out coordinates[i]) || (!(coordinates[i] <= playingBoard.GetLength(0)) || coordinates[i] == 0))
+                while (!int.TryParse(Console.ReadLine(), out coordinates[i]) || (!(coordinates[i] <= playingBoard.GetLength(0)) || coordinates[i] <= 0))
                 {
                     Console.WriteLine("Invalid input!");
                     Console.Write("> ");
@@ -160,9 +160,6 @@ namespace Q6
                     score[i] = 0;
                 }
             }
-
-
-
             //Column check
             for (int j = 0; j < playingBoard.GetLength(0); j++)
             {
@@ -183,9 +180,7 @@ namespace Q6
                     score[i] = 0;
                 }
             }
-            
-            
-
+           
             //Diagonal check 1
             for (int j = 0; j < playingBoard.GetLength(0); j++)
             {
@@ -231,6 +226,7 @@ namespace Q6
             DisplayTab();
             for (int i = 0; i < numberOfPlayers; i++) //Cycles between two players
             {
+                
                 InputHandlerer(i);
                 if (PlayingBoardManager(coordinates[0], coordinates[1], i))//Respond for player using already inputted coordinates
                 {
@@ -238,6 +234,7 @@ namespace Q6
                     InputHandlerer(i);
                     PlayingBoardManager(coordinates[0], coordinates[1], i);
                 }
+                
                 CheckWinner(i);
                 if (gameOver == true) //Initializes game over screen
                 {

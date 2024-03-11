@@ -34,21 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\fredy\\Documents\\ATUTemp\\github_repository\\IntroductionToProgramming2\\w16\\worksheet3\\Q1\\Q6\\Program.cs",
               "RelativeDocumentMoniker": "Q6\\Program.cs",
-              "ToolTip": "C:\\Users\\fredy\\Documents\\ATUTemp\\github_repository\\IntroductionToProgramming2\\w16\\worksheet3\\Q1\\Q6\\Program.cs",
-              "RelativeToolTip": "Q6\\Program.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAQwCEAAAANAAAA",
+              "ToolTip": "C:\\Users\\fredy\\Documents\\ATUTemp\\github_repository\\IntroductionToProgramming2\\w16\\worksheet3\\Q1\\Q6\\Program.cs*",
+              "RelativeToolTip": "Q6\\Program.cs*",
+              "ViewState": "AQIAAIgAAAAAAAAAAAA/wPQAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-13T15:15:08.919Z",
               "EditorCaption": ""
@@ -114,6 +110,10 @@
               "ViewState": "AQIAADYAAAAAAAAAAAAcwFAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-12T21:42:01.72Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

@@ -1,0 +1,15 @@
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w18\worksheet5\Q1\Q3.1\bin\Debug\net6.0\Q3.1.exe
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w18\worksheet5\Q1\Q3.1\bin\Debug\net6.0\Q3.1.deps.json
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w18\worksheet5\Q1\Q3.1\bin\Debug\net6.0\Q3.1.runtimeconfig.json
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w18\worksheet5\Q1\Q3.1\bin\Debug\net6.0\Q3.1.dll
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w18\worksheet5\Q1\Q3.1\bin\Debug\net6.0\Q3.1.pdb
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w18\worksheet5\Q1\Q3.1\obj\Debug\net6.0\Q3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w18\worksheet5\Q1\Q3.1\obj\Debug\net6.0\Q3.1.AssemblyInfoInputs.cache
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w18\worksheet5\Q1\Q3.1\obj\Debug\net6.0\Q3.1.AssemblyInfo.cs
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w18\worksheet5\Q1\Q3.1\obj\Debug\net6.0\Q3.1.csproj.CoreCompileInputs.cache
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w18\worksheet5\Q1\Q3.1\obj\Debug\net6.0\Q3.1.sourcelink.json
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w18\worksheet5\Q1\Q3.1\obj\Debug\net6.0\Q3.1.dll
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w18\worksheet5\Q1\Q3.1\obj\Debug\net6.0\refint\Q3.1.dll
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w18\worksheet5\Q1\Q3.1\obj\Debug\net6.0\Q3.1.pdb
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w18\worksheet5\Q1\Q3.1\obj\Debug\net6.0\Q3.1.genruntimeconfig.cache
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w18\worksheet5\Q1\Q3.1\obj\Debug\net6.0\ref\Q3.1.dll
