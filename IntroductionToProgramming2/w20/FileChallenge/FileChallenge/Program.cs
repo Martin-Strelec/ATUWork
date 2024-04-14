@@ -5,6 +5,8 @@
  * Purpose: Reading from .csv file 
  */
 
+using Microsoft.VisualBasic;
+
 namespace FileChallenge
 {
     internal class Program
@@ -25,16 +27,16 @@ namespace FileChallenge
 
         static void WriteFileDataToConsole(string path)
         {
-            const string DISPLAY_TAB = "{0,-12}{1,-12}";
-            string[] data;
+            int dataLength = 22;
+            string[] data = new string[dataLength];  
 
             Console.WriteLine("Energy Consumption per capita (in kg of oil)");
-            Console.WriteLine(DISPLAY_TAB, "Country", "Temperature");
             try
             {
                 using (StreamReader sr = File.OpenText(path))
                 {
                     string s;
+                    sr.ReadLine();
                     while ((s = sr.ReadLine()) != null)
                     {
                         data = s.Split(',');
@@ -42,8 +44,17 @@ namespace FileChallenge
                         {
                             throw new Exception("Incorrect file format!");
                         }
-                        Console.WriteLine(DISPLAY_TAB, $"{data[0]}", $"{data[1]}");
+                        Console.WriteLine("----------------");
+                        Console.WriteLine($"{data[0]}");
+                        Console.WriteLine("----------------");
+                        for (int i = 1; i < data.Length; i++)
+                        {
+                            Console.Write($"Year {i} = {data[i]} kg");
+                            Console.WriteLine("");
+                        }
+                        Console.WriteLine("");    
                     }
+                    
                 }
             }
             catch (FileNotFoundException e)

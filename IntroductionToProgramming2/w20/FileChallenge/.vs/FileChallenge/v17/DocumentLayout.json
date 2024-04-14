@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\fredy\\Documents\\ATUTemp\\github_repository\\IntroductionToProgramming2\\w20\\FileChallenge\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9F12702D-DFCC-4E8F-BCEC-8D11F5DF152C}|FileHandling\\FileHandling.csproj|c:\\users\\fredy\\documents\\atutemp\\github_repository\\introductiontoprogramming2\\w20\\filechallenge\\filehandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F12702D-DFCC-4E8F-BCEC-8D11F5DF152C}|FileHandling\\FileHandling.csproj|solutionrelative:filehandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2DF6E060-6769-4839-80F8-4CBBF392893F}|FileChallenge\\FileChallenge.csproj|c:\\users\\fredy\\documents\\atutemp\\github_repository\\introductiontoprogramming2\\w20\\filechallenge\\filechallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2DF6E060-6769-4839-80F8-4CBBF392893F}|FileChallenge\\FileChallenge.csproj|solutionrelative:filechallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,11 +24,25 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fredy\\Documents\\ATUTemp\\github_repository\\IntroductionToProgramming2\\w20\\FileChallenge\\FileHandling\\Program.cs",
+              "RelativeDocumentMoniker": "FileHandling\\Program.cs",
+              "ToolTip": "C:\\Users\\fredy\\Documents\\ATUTemp\\github_repository\\IntroductionToProgramming2\\w20\\FileChallenge\\FileHandling\\Program.cs",
+              "RelativeToolTip": "FileHandling\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T14:56:45.349Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\fredy\\Documents\\ATUTemp\\github_repository\\IntroductionToProgramming2\\w20\\FileChallenge\\FileChallenge\\Program.cs",
               "RelativeDocumentMoniker": "FileChallenge\\Program.cs",
               "ToolTip": "C:\\Users\\fredy\\Documents\\ATUTemp\\github_repository\\IntroductionToProgramming2\\w20\\FileChallenge\\FileChallenge\\Program.cs",
               "RelativeToolTip": "FileChallenge\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAZAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwEMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-11T11:43:49.225Z",
               "EditorCaption": ""

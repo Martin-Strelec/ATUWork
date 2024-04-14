@@ -1,0 +1,15 @@
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w20\FileChallenge\FileChallenge\bin\Debug\net6.0\FileChallenge.exe
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w20\FileChallenge\FileChallenge\bin\Debug\net6.0\FileChallenge.deps.json
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w20\FileChallenge\FileChallenge\bin\Debug\net6.0\FileChallenge.runtimeconfig.json
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w20\FileChallenge\FileChallenge\bin\Debug\net6.0\FileChallenge.dll
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w20\FileChallenge\FileChallenge\bin\Debug\net6.0\FileChallenge.pdb
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w20\FileChallenge\FileChallenge\obj\Debug\net6.0\FileChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w20\FileChallenge\FileChallenge\obj\Debug\net6.0\FileChallenge.AssemblyInfoInputs.cache
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w20\FileChallenge\FileChallenge\obj\Debug\net6.0\FileChallenge.AssemblyInfo.cs
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w20\FileChallenge\FileChallenge\obj\Debug\net6.0\FileChallenge.csproj.CoreCompileInputs.cache
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w20\FileChallenge\FileChallenge\obj\Debug\net6.0\FileChallenge.sourcelink.json
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w20\FileChallenge\FileChallenge\obj\Debug\net6.0\FileChallenge.dll
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w20\FileChallenge\FileChallenge\obj\Debug\net6.0\refint\FileChallenge.dll
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w20\FileChallenge\FileChallenge\obj\Debug\net6.0\FileChallenge.pdb
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w20\FileChallenge\FileChallenge\obj\Debug\net6.0\FileChallenge.genruntimeconfig.cache
+C:\Users\fredy\Documents\ATUTemp\github_repository\IntroductionToProgramming2\w20\FileChallenge\FileChallenge\obj\Debug\net6.0\ref\FileChallenge.dll
