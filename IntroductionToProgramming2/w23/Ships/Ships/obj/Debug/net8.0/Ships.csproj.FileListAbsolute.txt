@@ -1,0 +1,15 @@
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w23/Ships/Ships/Ships/obj/Debug/net8.0/Ships.GeneratedMSBuildEditorConfig.editorconfig
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w23/Ships/Ships/Ships/obj/Debug/net8.0/Ships.AssemblyInfoInputs.cache
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w23/Ships/Ships/Ships/obj/Debug/net8.0/Ships.AssemblyInfo.cs
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w23/Ships/Ships/Ships/obj/Debug/net8.0/Ships.csproj.CoreCompileInputs.cache
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w23/Ships/Ships/Ships/obj/Debug/net8.0/Ships.sourcelink.json
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w23/Ships/Ships/Ships/bin/Debug/net8.0/Ships
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w23/Ships/Ships/Ships/bin/Debug/net8.0/Ships.deps.json
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w23/Ships/Ships/Ships/bin/Debug/net8.0/Ships.runtimeconfig.json
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w23/Ships/Ships/Ships/bin/Debug/net8.0/Ships.dll
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w23/Ships/Ships/Ships/bin/Debug/net8.0/Ships.pdb
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w23/Ships/Ships/Ships/obj/Debug/net8.0/Ships.dll
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w23/Ships/Ships/Ships/obj/Debug/net8.0/refint/Ships.dll
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w23/Ships/Ships/Ships/obj/Debug/net8.0/Ships.pdb
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w23/Ships/Ships/Ships/obj/Debug/net8.0/Ships.genruntimeconfig.cache
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w23/Ships/Ships/Ships/obj/Debug/net8.0/ref/Ships.dll
