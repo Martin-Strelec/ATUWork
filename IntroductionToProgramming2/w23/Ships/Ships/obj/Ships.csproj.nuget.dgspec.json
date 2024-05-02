@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w23/Ships/Ships/Ships/Ships.csproj": {}
+    "/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w23/Ships/Ships/Ships.csproj": {}
   },
   "projects": {
-    "/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w23/Ships/Ships/Ships/Ships.csproj": {
+    "/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w23/Ships/Ships/Ships.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w23/Ships/Ships/Ships/Ships.csproj",
+        "projectUniqueName": "/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w23/Ships/Ships/Ships.csproj",
         "projectName": "Ships",
-        "projectPath": "/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w23/Ships/Ships/Ships/Ships.csproj",
+        "projectPath": "/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w23/Ships/Ships/Ships.csproj",
         "packagesPath": "/home/jozin/.nuget/packages/",
-        "outputPath": "/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w23/Ships/Ships/Ships/obj/",
+        "outputPath": "/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w23/Ships/Ships/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jozin/.nuget/NuGet/NuGet.Config"

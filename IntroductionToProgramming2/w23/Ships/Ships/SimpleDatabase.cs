@@ -4,8 +4,6 @@
 // Usage: You can access the data the same way as in two dimensional array
 //      : Object keeps count of lines. Accessed by lineCount
 
-using System.ComponentModel;
-
 namespace QSimpleDatabase
 {
     public class SimpleDatabase
@@ -35,14 +33,15 @@ namespace QSimpleDatabase
             List<string> _table = new List<string>();
             ReadFile(path, recordLength);
         }
-
+        
         public void ReadFile(string path, int length)
         {
+            
             string[] data;
             try
             {
                 using (StreamReader sr = File.OpenText(path))
-                {
+                {  
                     string s;
                     while ((s = sr.ReadLine()) != null)
                     {

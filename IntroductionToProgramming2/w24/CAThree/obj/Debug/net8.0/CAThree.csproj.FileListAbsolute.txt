@@ -1,0 +1,15 @@
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w24/CAThree/bin/Debug/net8.0/CAThree
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w24/CAThree/bin/Debug/net8.0/CAThree.deps.json
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w24/CAThree/bin/Debug/net8.0/CAThree.runtimeconfig.json
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w24/CAThree/bin/Debug/net8.0/CAThree.dll
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w24/CAThree/bin/Debug/net8.0/CAThree.pdb
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w24/CAThree/obj/Debug/net8.0/CAThree.GeneratedMSBuildEditorConfig.editorconfig
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w24/CAThree/obj/Debug/net8.0/CAThree.AssemblyInfoInputs.cache
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w24/CAThree/obj/Debug/net8.0/CAThree.AssemblyInfo.cs
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w24/CAThree/obj/Debug/net8.0/CAThree.csproj.CoreCompileInputs.cache
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w24/CAThree/obj/Debug/net8.0/CAThree.sourcelink.json
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w24/CAThree/obj/Debug/net8.0/CAThree.dll
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w24/CAThree/obj/Debug/net8.0/refint/CAThree.dll
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w24/CAThree/obj/Debug/net8.0/CAThree.pdb
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w24/CAThree/obj/Debug/net8.0/CAThree.genruntimeconfig.cache
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w24/CAThree/obj/Debug/net8.0/ref/CAThree.dll
