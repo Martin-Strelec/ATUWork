@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CAMockThree")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+548bbe3c6a94e56235b31d609d50ccc59540e7c8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0731c6e53372774eefde38869f7729039eb32b5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CAMockThree")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CAMockThree")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

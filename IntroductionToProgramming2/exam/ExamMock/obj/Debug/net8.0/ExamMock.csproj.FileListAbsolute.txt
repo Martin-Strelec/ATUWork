@@ -1,0 +1,15 @@
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/exam/ExamMock/bin/Debug/net8.0/ExamMock
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/exam/ExamMock/bin/Debug/net8.0/ExamMock.deps.json
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/exam/ExamMock/bin/Debug/net8.0/ExamMock.runtimeconfig.json
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/exam/ExamMock/bin/Debug/net8.0/ExamMock.dll
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/exam/ExamMock/bin/Debug/net8.0/ExamMock.pdb
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/exam/ExamMock/obj/Debug/net8.0/ExamMock.GeneratedMSBuildEditorConfig.editorconfig
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/exam/ExamMock/obj/Debug/net8.0/ExamMock.AssemblyInfoInputs.cache
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/exam/ExamMock/obj/Debug/net8.0/ExamMock.AssemblyInfo.cs
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/exam/ExamMock/obj/Debug/net8.0/ExamMock.csproj.CoreCompileInputs.cache
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/exam/ExamMock/obj/Debug/net8.0/ExamMock.sourcelink.json
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/exam/ExamMock/obj/Debug/net8.0/ExamMock.dll
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/exam/ExamMock/obj/Debug/net8.0/refint/ExamMock.dll
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/exam/ExamMock/obj/Debug/net8.0/ExamMock.pdb
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/exam/ExamMock/obj/Debug/net8.0/ExamMock.genruntimeconfig.cache
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/exam/ExamMock/obj/Debug/net8.0/ref/ExamMock.dll

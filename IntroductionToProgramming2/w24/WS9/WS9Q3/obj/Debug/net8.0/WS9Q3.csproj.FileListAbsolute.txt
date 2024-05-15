@@ -1,0 +1,15 @@
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w24/WS9/WS9Q3/bin/Debug/net8.0/WS9Q3
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w24/WS9/WS9Q3/bin/Debug/net8.0/WS9Q3.deps.json
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w24/WS9/WS9Q3/bin/Debug/net8.0/WS9Q3.runtimeconfig.json
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w24/WS9/WS9Q3/bin/Debug/net8.0/WS9Q3.dll
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w24/WS9/WS9Q3/bin/Debug/net8.0/WS9Q3.pdb
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w24/WS9/WS9Q3/obj/Debug/net8.0/WS9Q3.GeneratedMSBuildEditorConfig.editorconfig
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w24/WS9/WS9Q3/obj/Debug/net8.0/WS9Q3.AssemblyInfoInputs.cache
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w24/WS9/WS9Q3/obj/Debug/net8.0/WS9Q3.AssemblyInfo.cs
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w24/WS9/WS9Q3/obj/Debug/net8.0/WS9Q3.csproj.CoreCompileInputs.cache
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w24/WS9/WS9Q3/obj/Debug/net8.0/WS9Q3.sourcelink.json
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w24/WS9/WS9Q3/obj/Debug/net8.0/WS9Q3.dll
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w24/WS9/WS9Q3/obj/Debug/net8.0/refint/WS9Q3.dll
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w24/WS9/WS9Q3/obj/Debug/net8.0/WS9Q3.pdb
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w24/WS9/WS9Q3/obj/Debug/net8.0/WS9Q3.genruntimeconfig.cache
+/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w24/WS9/WS9Q3/obj/Debug/net8.0/ref/WS9Q3.dll

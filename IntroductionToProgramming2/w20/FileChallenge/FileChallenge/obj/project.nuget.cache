@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "MZfl0Wx3SwNT6EbqrpYvZSKYfOGTUDadOh66YcTZZiz3sdMRuVWeEfieDk93/+aWq4Z1AGiUT8l6+rpwXht20g==",
+  "dgSpecHash": "YXD1qpljdxjJaq90mHfWhsRNBmo50S1z9YsxQvBdkqB8fTLlH9HlPo7yTkuIC78iGY60EGakV5gqCYe9liB+mw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fredy\\Documents\\ATUTemp\\github_repository\\IntroductionToProgramming2\\w20\\FileChallenge\\FileChallenge\\FileChallenge.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/jozin/Documents/ATUWork/IntroductionToProgramming2/w20/FileChallenge/FileChallenge/FileChallenge.csproj",
+  "expectedPackageFiles": [
+    "/home/jozin/.nuget/packages/microsoft.netcore.app.ref/6.0.29/microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "/home/jozin/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.29/microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "/home/jozin/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.29/microsoft.netcore.app.host.linux-x64.6.0.29.nupkg.sha512"
+  ],
   "logs": []
 }
