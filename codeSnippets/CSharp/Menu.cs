@@ -29,6 +29,9 @@ namespace QMenu
             _menuName = n;
         }
 
+        //Public methods
+
+        //Prints the whole menu
         public void MenuPrint()
         {
             Console.WriteLine("");
@@ -40,6 +43,7 @@ namespace QMenu
             Console.WriteLine($"{MenuOptions.Length + 1}. Exit");
         }
 
+        //User can select an option. The choice will be returned as a int
         public int GetMenuOption()
         {
             bool exit = false;
@@ -68,7 +72,7 @@ namespace QMenu
             {
                 Console.WriteLine(e.Message);
             }
-            return option;
+            return option--; //Returns chosen value lowered by one(easier to work with when using arrays)
         }
 
         public override string ToString()
