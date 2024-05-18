@@ -28,36 +28,38 @@ namespace ExamMock2
             this._path = path;
             this._dataLength = dataLength;
             this._divider = divider;
-            this._database = new List<string[]>(ReadFile(path, dataLength, divider, formated));
+            this._database = new List<string[]>(ReadFile(path, dataLength, divider, formated)); //Creates database
         }
 
         //Static methods
         static List<string[]> ReadFile(string path, int dataLength, char divider, bool formated) //Method for reading a .csv file
         {
+            //Variables
             StrModifier mod = new StrModifier();
             List<string[]> record = new List<string[]>(); //For storing and returning values  
             string[] readLine; //One line of data
 
+            //Initializing StreamReader class
             using (StreamReader sr = File.OpenText(path))
             {
                 string s;
-                while ((s = sr.ReadLine()) != null)
+                while ((s = sr.ReadLine()) != null) //Reading one line
                 {
-                    readLine = s.Split(divider);
+                    readLine = s.Split(divider); //Splitting the string by the division character
                     if (readLine.Length == dataLength)
                     {
-                        if (formated == true)
+                        if (formated == true) //If true, the ouput will be lowercase with removed spaces
                         {
                             for (int i = 0; i < dataLength; i++)
                             {
                                 string temp = readLine[i];
                                 readLine[i] = mod.SimplifyString(temp);
                             }
-                            record.Add(readLine);
+                            record.Add(readLine); //Add to the database
                         }
                         else
                         {
-                            record.Add(readLine);
+                            record.Add(readLine); //Add to database
                         }
                     }
                 }
