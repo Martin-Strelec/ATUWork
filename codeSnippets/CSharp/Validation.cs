@@ -1,4 +1,5 @@
-/*This class is used to validate specific data types. Work in progress..
+/*Made by Martin Strelec
+*This class is used to validate specific data types. Work in progress..
 *Fucntions: Test for data type > string, int, double, decimal
 *Modes: Data type, Data type + range, Data type + match (only with string)    **If range is set from 0 to 0. the method will only use the TryParse method
 */
